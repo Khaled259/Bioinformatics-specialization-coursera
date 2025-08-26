@@ -1,6 +1,6 @@
 # My Journey Through the Coursera Bioinformatics Specialization
 
-![UC San Diego Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_of_the_University_of_California%2C_San_Diego.svg/1280px-Logo_of_the_University_of_California%2C_San_Diego.svg.png)
+![UC San Diego Logo](https://upload.wikimedia.org/wikipedia/commons/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg)
 
 This repository serves as a personal portfolio of my work completing the **[Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)** offered by the University of California San Diego on Coursera. It contains my code implementations for the Honors Track ("hacker track") programming challenges, notes on key algorithms, and solutions to various problems presented throughout the 7-course series.
 
